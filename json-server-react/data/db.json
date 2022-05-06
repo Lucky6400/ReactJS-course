@@ -1,0 +1,19 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "done": false,
+            "task": "Learn React"
+        },
+        {
+            "id": 2,
+            "done": false,
+            "task": "Learn Node"
+        },
+        {
+            "id": 3,
+            "done": false,
+            "task": "Learn Advanced JS"
+        }
+    ]
+}

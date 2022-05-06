@@ -1,0 +1,6 @@
+html, body{
+    width: 100%;
+    overflow-x: hidden;
+    background: url(https://images.pexels.com/photos/7291997/pexels-photo-7291997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size: 100vw 100vh;
+}
